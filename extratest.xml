@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simple>
+<native>true</native>
+<simpleName>"simplebean"</simpleName>
+<number>10</number>
+<values>Here.</values><values>There.</values>
+<node value="extraValue">
+<missingTag value="h"/>
+</node>
+</simple>
