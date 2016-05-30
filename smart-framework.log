@@ -1,0 +1,1589 @@
+[INFO] main com.klatencor.klara.nextgen.server.metrics.ServerMetrics:80 - ServerMetrics startups.
+[INFO] Thread-10 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 10, simpleJob, SETUP, setup job begins.
+[INFO] Thread-11 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 11, simpleJob, SETUP, setup job begins.
+[INFO] Thread-4 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 4, simpleJob, SETUP, setup job begins.
+[INFO] Thread-5 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 5, simpleJob, SETUP, setup job begins.
+[INFO] Thread-16 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 16, simpleJob, SETUP, setup job begins.
+[INFO] Thread-5 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 5, simpleJob, SETUP, setup job done.
+[INFO] Thread-1 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 1, simpleJob, SETUP, setup job begins.
+[INFO] Thread-16 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 16, simpleJob, SETUP, setup job done.
+[INFO] Thread-3 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 3, simpleJob, SETUP, setup job begins.
+[INFO] Thread-1 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 1, simpleJob, SETUP, setup job done.
+[INFO] Thread-5 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 5, simpleJob, RUNNING, run job begins.
+[INFO] Thread-4 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 4, simpleJob, SETUP, setup job done.
+[INFO] Thread-15 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 15, simpleJob, SETUP, setup job begins.
+[INFO] Thread-10 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 10, simpleJob, SETUP, setup job done.
+[INFO] Thread-11 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 11, simpleJob, SETUP, setup job done.
+[INFO] Thread-2 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 2, simpleJob, SETUP, setup job begins.
+[INFO] Thread-7 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 7, simpleJob, SETUP, setup job begins.
+[INFO] Thread-9 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 9, simpleJob, SETUP, setup job begins.
+[INFO] Thread-8 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 8, simpleJob, SETUP, setup job begins.
+[INFO] Thread-12 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 12, simpleJob, SETUP, setup job begins.
+[INFO] Thread-6 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 6, simpleJob, SETUP, setup job begins.
+[INFO] Thread-13 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 13, simpleJob, SETUP, setup job begins.
+[INFO] Thread-14 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 14, simpleJob, SETUP, setup job begins.
+[INFO] Thread-6 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 6, simpleJob, SETUP, setup job done.
+[INFO] Thread-12 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 12, simpleJob, SETUP, setup job done.
+[INFO] Thread-6 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 6, simpleJob, RUNNING, run job begins.
+[INFO] Thread-8 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 8, simpleJob, SETUP, setup job done.
+[INFO] Thread-9 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 9, simpleJob, SETUP, setup job done.
+[INFO] Thread-7 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 7, simpleJob, SETUP, setup job done.
+[INFO] Thread-2 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 2, simpleJob, SETUP, setup job done.
+[INFO] Thread-11 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 11, simpleJob, RUNNING, run job begins.
+[INFO] Thread-17 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 17, simpleJob, SETUP, setup job begins.
+[INFO] Thread-10 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 10, simpleJob, RUNNING, run job begins.
+[INFO] Thread-15 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 15, simpleJob, SETUP, setup job done.
+[INFO] Thread-4 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 4, simpleJob, RUNNING, run job begins.
+[INFO] Thread-5 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 5, simpleJob, RUNNING, run job done
+[INFO] Thread-1 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 1, simpleJob, RUNNING, run job begins.
+[INFO] Thread-3 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 3, simpleJob, SETUP, setup job done.
+[INFO] Thread-16 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 16, simpleJob, RUNNING, run job begins.
+[INFO] Thread-1 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 1, simpleJob, RUNNING, run job done
+[INFO] Thread-5 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 5, simpleJob, CLEAN, clean job begins
+[INFO] Thread-4 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 4, simpleJob, RUNNING, run job done
+[INFO] Thread-15 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 15, simpleJob, RUNNING, run job begins.
+[INFO] Thread-10 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 10, simpleJob, RUNNING, run job done
+[INFO] Thread-17 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 17, simpleJob, SETUP, setup job done.
+[INFO] Thread-11 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 11, simpleJob, RUNNING, run job done
+[INFO] Thread-10 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 10, simpleJob, CLEAN, clean job begins
+[INFO] Thread-2 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 2, simpleJob, RUNNING, run job begins.
+[INFO] Thread-7 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 7, simpleJob, RUNNING, run job begins.
+[INFO] Thread-2 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 2, simpleJob, RUNNING, run job done
+[INFO] Thread-7 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 7, simpleJob, RUNNING, run job done
+[INFO] Thread-9 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 9, simpleJob, RUNNING, run job begins.
+[INFO] Thread-8 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 8, simpleJob, RUNNING, run job begins.
+[INFO] Thread-6 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 6, simpleJob, RUNNING, run job done
+[INFO] Thread-12 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 12, simpleJob, RUNNING, run job begins.
+[INFO] Thread-6 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 6, simpleJob, CLEAN, clean job begins
+[INFO] Thread-12 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 12, simpleJob, RUNNING, run job done
+[INFO] Thread-6 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 6, simpleJob, CLEAN, clean job done
+[INFO] Thread-6 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 6, simpleJob, DONE, all done.
+[INFO] Thread-14 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 14, simpleJob, SETUP, setup job done.
+[INFO] Thread-13 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 13, simpleJob, SETUP, setup job done.
+[INFO] Thread-12 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 12, simpleJob, CLEAN, clean job begins
+[INFO] Thread-8 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 8, simpleJob, RUNNING, run job done
+[INFO] Thread-9 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 9, simpleJob, RUNNING, run job done
+[INFO] Thread-7 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 7, simpleJob, CLEAN, clean job begins
+[INFO] Thread-2 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 2, simpleJob, CLEAN, clean job begins
+[INFO] Thread-10 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 10, simpleJob, CLEAN, clean job done
+[INFO] Thread-2 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 2, simpleJob, CLEAN, clean job done
+[INFO] Thread-2 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 2, simpleJob, DONE, all done.
+[INFO] Thread-11 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 11, simpleJob, CLEAN, clean job begins
+[INFO] Thread-17 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 17, simpleJob, RUNNING, run job begins.
+[INFO] Thread-15 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 15, simpleJob, RUNNING, run job done
+[INFO] Thread-4 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 4, simpleJob, CLEAN, clean job begins
+[INFO] Thread-5 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 5, simpleJob, CLEAN, clean job done
+[INFO] Thread-4 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 4, simpleJob, CLEAN, clean job done
+[INFO] Thread-4 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 4, simpleJob, DONE, all done.
+[INFO] Thread-1 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 1, simpleJob, CLEAN, clean job begins
+[INFO] Thread-16 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 16, simpleJob, RUNNING, run job done
+[INFO] Thread-3 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 3, simpleJob, RUNNING, run job begins.
+[INFO] Thread-16 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 16, simpleJob, CLEAN, clean job begins
+[INFO] Thread-3 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 3, simpleJob, RUNNING, run job done
+[INFO] Thread-16 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 16, simpleJob, CLEAN, clean job done
+[INFO] Thread-3 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 3, simpleJob, CLEAN, clean job begins
+[INFO] Thread-1 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 1, simpleJob, CLEAN, clean job done
+[INFO] Thread-5 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 5, simpleJob, DONE, all done.
+[INFO] Thread-15 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 15, simpleJob, CLEAN, clean job begins
+[INFO] Thread-17 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 17, simpleJob, RUNNING, run job done
+[INFO] Thread-15 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 15, simpleJob, CLEAN, clean job done
+[INFO] Thread-15 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 15, simpleJob, DONE, all done.
+[INFO] Thread-11 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 11, simpleJob, CLEAN, clean job done
+[INFO] Thread-10 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 10, simpleJob, DONE, all done.
+[INFO] Thread-7 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 7, simpleJob, CLEAN, clean job done
+[INFO] Thread-9 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 9, simpleJob, CLEAN, clean job begins
+[INFO] Thread-8 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 8, simpleJob, CLEAN, clean job begins
+[INFO] Thread-12 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 12, simpleJob, CLEAN, clean job done
+[INFO] Thread-13 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 13, simpleJob, RUNNING, run job begins.
+[INFO] Thread-12 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 12, simpleJob, DONE, all done.
+[INFO] Thread-14 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 14, simpleJob, RUNNING, run job begins.
+[INFO] Thread-13 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 13, simpleJob, RUNNING, run job done
+[INFO] Thread-8 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 8, simpleJob, CLEAN, clean job done
+[INFO] Thread-9 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 9, simpleJob, CLEAN, clean job done
+[INFO] Thread-7 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 7, simpleJob, DONE, all done.
+[INFO] Thread-11 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 11, simpleJob, DONE, all done.
+[INFO] Thread-17 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 17, simpleJob, CLEAN, clean job begins
+[INFO] Thread-1 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 1, simpleJob, DONE, all done.
+[INFO] Thread-3 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 3, simpleJob, CLEAN, clean job done
+[INFO] Thread-16 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 16, simpleJob, DONE, all done.
+[INFO] Thread-17 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 17, simpleJob, CLEAN, clean job done
+[INFO] Thread-17 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 17, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 6, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-9 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 9, simpleJob, DONE, all done.
+[INFO] Thread-8 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 8, simpleJob, DONE, all done.
+[INFO] Thread-13 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 13, simpleJob, CLEAN, clean job begins
+[INFO] Thread-14 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 14, simpleJob, RUNNING, run job done
+[INFO] Thread-3 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 3, simpleJob, DONE, all done.
+[INFO] Thread-13 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 13, simpleJob, CLEAN, clean job done
+[INFO] Thread-14 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 14, simpleJob, CLEAN, clean job begins
+[INFO] Thread-13 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 13, simpleJob, DONE, all done.
+[INFO] Thread-14 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 14, simpleJob, CLEAN, clean job done
+[INFO] Thread-14 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 14, simpleJob, DONE, all done.
+[INFO] Thread-18 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 18, simpleJob, SETUP, setup job begins.
+[INFO] Thread-18 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 18, simpleJob, SETUP, setup job done.
+[INFO] Thread-18 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 18, simpleJob, RUNNING, run job begins.
+[INFO] Thread-18 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 18, simpleJob, RUNNING, run job done
+[INFO] Thread-18 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 18, simpleJob, CLEAN, clean job begins
+[INFO] Thread-18 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 18, simpleJob, CLEAN, clean job done
+[INFO] Thread-18 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 18, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 2, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 4, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 5, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 15, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 10, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 12, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 7, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 11, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 1, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 16, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 17, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 9, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 8, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 3, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 13, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-19 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 19, simpleJob, SETUP, setup job begins.
+[INFO] Thread-19 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 19, simpleJob, SETUP, setup job done.
+[INFO] Thread-19 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 19, simpleJob, RUNNING, run job begins.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 14, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-19 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 19, simpleJob, RUNNING, run job done
+[INFO] Thread-19 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 19, simpleJob, CLEAN, clean job begins
+[INFO] Thread-19 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 19, simpleJob, CLEAN, clean job done
+[INFO] Thread-19 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 19, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 18, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 19, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-20 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 20, simpleJob, SETUP, setup job begins.
+[INFO] Thread-20 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 20, simpleJob, SETUP, setup job done.
+[INFO] Thread-20 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 20, simpleJob, RUNNING, run job begins.
+[INFO] Thread-20 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 20, simpleJob, RUNNING, run job done
+[INFO] Thread-20 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 20, simpleJob, CLEAN, clean job begins
+[INFO] Thread-20 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 20, simpleJob, CLEAN, clean job done
+[INFO] Thread-20 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 20, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 20, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-21 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 21, simpleJob, SETUP, setup job begins.
+[INFO] Thread-21 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 21, simpleJob, SETUP, setup job done.
+[INFO] Thread-21 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 21, simpleJob, RUNNING, run job begins.
+[INFO] Thread-21 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 21, simpleJob, RUNNING, run job done
+[INFO] Thread-21 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 21, simpleJob, CLEAN, clean job begins
+[INFO] Thread-21 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 21, simpleJob, CLEAN, clean job done
+[INFO] Thread-21 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 21, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 21, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-22 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 22, simpleJob, SETUP, setup job begins.
+[INFO] Thread-22 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 22, simpleJob, SETUP, setup job done.
+[INFO] Thread-22 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 22, simpleJob, RUNNING, run job begins.
+[INFO] Thread-22 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 22, simpleJob, RUNNING, run job done
+[INFO] Thread-22 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 22, simpleJob, CLEAN, clean job begins
+[INFO] Thread-22 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 22, simpleJob, CLEAN, clean job done
+[INFO] Thread-22 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 22, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 22, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-23 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 23, simpleJob, SETUP, setup job begins.
+[INFO] Thread-23 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 23, simpleJob, SETUP, setup job done.
+[INFO] Thread-23 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 23, simpleJob, RUNNING, run job begins.
+[INFO] Thread-23 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 23, simpleJob, RUNNING, run job done
+[INFO] Thread-23 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 23, simpleJob, CLEAN, clean job begins
+[INFO] Thread-23 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 23, simpleJob, CLEAN, clean job done
+[INFO] Thread-23 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 23, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 23, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-24 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 24, simpleJob, SETUP, setup job begins.
+[INFO] Thread-24 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 24, simpleJob, SETUP, setup job done.
+[INFO] Thread-24 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 24, simpleJob, RUNNING, run job begins.
+[INFO] Thread-24 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 24, simpleJob, RUNNING, run job done
+[INFO] Thread-24 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 24, simpleJob, CLEAN, clean job begins
+[INFO] Thread-24 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 24, simpleJob, CLEAN, clean job done
+[INFO] Thread-24 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 24, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 24, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-25 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 25, simpleJob, SETUP, setup job begins.
+[INFO] Thread-25 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 25, simpleJob, SETUP, setup job done.
+[INFO] Thread-25 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 25, simpleJob, RUNNING, run job begins.
+[INFO] Thread-25 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 25, simpleJob, RUNNING, run job done
+[INFO] Thread-25 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 25, simpleJob, CLEAN, clean job begins
+[INFO] Thread-25 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 25, simpleJob, CLEAN, clean job done
+[INFO] Thread-25 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 25, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 25, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-26 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 26, simpleJob, SETUP, setup job begins.
+[INFO] Thread-26 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 26, simpleJob, SETUP, setup job done.
+[INFO] Thread-26 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 26, simpleJob, RUNNING, run job begins.
+[INFO] Thread-26 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 26, simpleJob, RUNNING, run job done
+[INFO] Thread-26 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 26, simpleJob, CLEAN, clean job begins
+[INFO] Thread-26 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 26, simpleJob, CLEAN, clean job done
+[INFO] Thread-26 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 26, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 26, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-27 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 27, simpleJob, SETUP, setup job begins.
+[INFO] Thread-27 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 27, simpleJob, SETUP, setup job done.
+[INFO] Thread-27 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 27, simpleJob, RUNNING, run job begins.
+[INFO] Thread-27 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 27, simpleJob, RUNNING, run job done
+[INFO] Thread-27 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 27, simpleJob, CLEAN, clean job begins
+[INFO] Thread-27 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 27, simpleJob, CLEAN, clean job done
+[INFO] Thread-27 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 27, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 27, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-28 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 28, simpleJob, SETUP, setup job begins.
+[INFO] Thread-28 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 28, simpleJob, SETUP, setup job done.
+[INFO] Thread-28 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 28, simpleJob, RUNNING, run job begins.
+[INFO] Thread-28 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 28, simpleJob, RUNNING, run job done
+[INFO] Thread-28 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 28, simpleJob, CLEAN, clean job begins
+[INFO] Thread-28 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 28, simpleJob, CLEAN, clean job done
+[INFO] Thread-28 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 28, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 28, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-29 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 29, simpleJob, SETUP, setup job begins.
+[INFO] Thread-29 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 29, simpleJob, SETUP, setup job done.
+[INFO] Thread-29 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 29, simpleJob, RUNNING, run job begins.
+[INFO] Thread-29 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 29, simpleJob, RUNNING, run job done
+[INFO] Thread-29 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 29, simpleJob, CLEAN, clean job begins
+[INFO] Thread-29 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 29, simpleJob, CLEAN, clean job done
+[INFO] Thread-29 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 29, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 29, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-30 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 30, simpleJob, SETUP, setup job begins.
+[INFO] Thread-30 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 30, simpleJob, SETUP, setup job done.
+[INFO] Thread-30 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 30, simpleJob, RUNNING, run job begins.
+[INFO] Thread-30 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 30, simpleJob, RUNNING, run job done
+[INFO] Thread-30 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 30, simpleJob, CLEAN, clean job begins
+[INFO] Thread-30 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 30, simpleJob, CLEAN, clean job done
+[INFO] Thread-30 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 30, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 30, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-31 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 31, simpleJob, SETUP, setup job begins.
+[INFO] Thread-31 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 31, simpleJob, SETUP, setup job done.
+[INFO] Thread-31 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 31, simpleJob, RUNNING, run job begins.
+[INFO] Thread-31 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 31, simpleJob, RUNNING, run job done
+[INFO] Thread-31 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 31, simpleJob, CLEAN, clean job begins
+[INFO] Thread-31 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 31, simpleJob, CLEAN, clean job done
+[INFO] Thread-31 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 31, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 31, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-32 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 32, simpleJob, SETUP, setup job begins.
+[INFO] Thread-32 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 32, simpleJob, SETUP, setup job done.
+[INFO] Thread-32 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 32, simpleJob, RUNNING, run job begins.
+[INFO] Thread-32 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 32, simpleJob, RUNNING, run job done
+[INFO] Thread-32 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 32, simpleJob, CLEAN, clean job begins
+[INFO] Thread-32 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 32, simpleJob, CLEAN, clean job done
+[INFO] Thread-32 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 32, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 32, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-33 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 33, simpleJob, SETUP, setup job begins.
+[INFO] Thread-34 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 34, simpleJob, SETUP, setup job begins.
+[INFO] Thread-35 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 35, simpleJob, SETUP, setup job begins.
+[INFO] Thread-33 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 33, simpleJob, SETUP, setup job done.
+[INFO] Thread-34 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 34, simpleJob, SETUP, setup job done.
+[INFO] Thread-33 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 33, simpleJob, RUNNING, run job begins.
+[INFO] Thread-35 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 35, simpleJob, SETUP, setup job done.
+[INFO] Thread-33 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 33, simpleJob, RUNNING, run job done
+[INFO] Thread-34 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 34, simpleJob, RUNNING, run job begins.
+[INFO] Thread-33 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 33, simpleJob, CLEAN, clean job begins
+[INFO] Thread-34 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 34, simpleJob, RUNNING, run job done
+[INFO] Thread-35 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 35, simpleJob, RUNNING, run job begins.
+[INFO] Thread-34 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 34, simpleJob, CLEAN, clean job begins
+[INFO] Thread-33 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 33, simpleJob, CLEAN, clean job done
+[INFO] Thread-35 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 35, simpleJob, RUNNING, run job done
+[INFO] Thread-33 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 33, simpleJob, DONE, all done.
+[INFO] Thread-34 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 34, simpleJob, CLEAN, clean job done
+[INFO] Thread-35 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 35, simpleJob, CLEAN, clean job begins
+[INFO] Thread-34 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 34, simpleJob, DONE, all done.
+[INFO] Thread-35 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 35, simpleJob, CLEAN, clean job done
+[INFO] Thread-35 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 35, simpleJob, DONE, all done.
+[INFO] Thread-36 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 36, simpleJob, SETUP, setup job begins.
+[INFO] Thread-36 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 36, simpleJob, SETUP, setup job done.
+[INFO] Thread-36 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 36, simpleJob, RUNNING, run job begins.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 33, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-36 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 36, simpleJob, RUNNING, run job done
+[INFO] Thread-38 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 38, simpleJob, SETUP, setup job begins.
+[INFO] Thread-37 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 37, simpleJob, SETUP, setup job begins.
+[INFO] Thread-36 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 36, simpleJob, CLEAN, clean job begins
+[INFO] Thread-39 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 39, simpleJob, SETUP, setup job begins.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 34, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] Thread-36 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 36, simpleJob, CLEAN, clean job done
+[INFO] Thread-37 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 37, simpleJob, SETUP, setup job done.
+[INFO] Thread-38 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 38, simpleJob, SETUP, setup job done.
+[INFO] Thread-37 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 37, simpleJob, RUNNING, run job begins.
+[INFO] Thread-36 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 36, simpleJob, DONE, all done.
+[INFO] Thread-99 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 99, simpleJob, SETUP, setup job begins.
+[INFO] Thread-98 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 98, simpleJob, SETUP, setup job begins.
+[INFO] Thread-97 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 97, simpleJob, SETUP, setup job begins.
+[INFO] Thread-96 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 96, simpleJob, SETUP, setup job begins.
+[INFO] Thread-95 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 95, simpleJob, SETUP, setup job begins.
+[INFO] Thread-94 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 94, simpleJob, SETUP, setup job begins.
+[INFO] Thread-95 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 95, simpleJob, SETUP, setup job done.
+[INFO] Thread-94 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 94, simpleJob, SETUP, setup job done.
+[INFO] Thread-93 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 93, simpleJob, SETUP, setup job begins.
+[INFO] Thread-92 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 92, simpleJob, SETUP, setup job begins.
+[INFO] Thread-91 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 91, simpleJob, SETUP, setup job begins.
+[INFO] Thread-90 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 90, simpleJob, SETUP, setup job begins.
+[INFO] Thread-89 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 89, simpleJob, SETUP, setup job begins.
+[INFO] Thread-88 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 88, simpleJob, SETUP, setup job begins.
+[INFO] Thread-87 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 87, simpleJob, SETUP, setup job begins.
+[INFO] Thread-86 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 86, simpleJob, SETUP, setup job begins.
+[INFO] Thread-85 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 85, simpleJob, SETUP, setup job begins.
+[INFO] Thread-84 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 84, simpleJob, SETUP, setup job begins.
+[INFO] Thread-85 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 85, simpleJob, SETUP, setup job done.
+[INFO] Thread-83 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 83, simpleJob, SETUP, setup job begins.
+[INFO] Thread-82 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 82, simpleJob, SETUP, setup job begins.
+[INFO] Thread-81 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 81, simpleJob, SETUP, setup job begins.
+[INFO] Thread-80 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 80, simpleJob, SETUP, setup job begins.
+[INFO] Thread-81 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 81, simpleJob, SETUP, setup job done.
+[INFO] Thread-79 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 79, simpleJob, SETUP, setup job begins.
+[INFO] Thread-78 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 78, simpleJob, SETUP, setup job begins.
+[INFO] Thread-77 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 77, simpleJob, SETUP, setup job begins.
+[INFO] Thread-78 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 78, simpleJob, SETUP, setup job done.
+[INFO] Thread-76 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 76, simpleJob, SETUP, setup job begins.
+[INFO] Thread-75 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 75, simpleJob, SETUP, setup job begins.
+[INFO] Thread-74 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 74, simpleJob, SETUP, setup job begins.
+[INFO] Thread-73 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 73, simpleJob, SETUP, setup job begins.
+[INFO] Thread-72 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 72, simpleJob, SETUP, setup job begins.
+[INFO] Thread-71 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 71, simpleJob, SETUP, setup job begins.
+[INFO] Thread-70 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 70, simpleJob, SETUP, setup job begins.
+[INFO] Thread-71 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 71, simpleJob, SETUP, setup job done.
+[INFO] Thread-69 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 69, simpleJob, SETUP, setup job begins.
+[INFO] Thread-68 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 68, simpleJob, SETUP, setup job begins.
+[INFO] Thread-67 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 67, simpleJob, SETUP, setup job begins.
+[INFO] Thread-65 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 65, simpleJob, SETUP, setup job begins.
+[INFO] Thread-66 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 66, simpleJob, SETUP, setup job begins.
+[INFO] Thread-64 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 64, simpleJob, SETUP, setup job begins.
+[INFO] Thread-62 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 62, simpleJob, SETUP, setup job begins.
+[INFO] Thread-63 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 63, simpleJob, SETUP, setup job begins.
+[INFO] Thread-61 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 61, simpleJob, SETUP, setup job begins.
+[INFO] Thread-60 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 60, simpleJob, SETUP, setup job begins.
+[INFO] Thread-59 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 59, simpleJob, SETUP, setup job begins.
+[INFO] Thread-58 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 58, simpleJob, SETUP, setup job begins.
+[INFO] Thread-57 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 57, simpleJob, SETUP, setup job begins.
+[INFO] Thread-55 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 55, simpleJob, SETUP, setup job begins.
+[INFO] Thread-56 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 56, simpleJob, SETUP, setup job begins.
+[INFO] Thread-54 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 54, simpleJob, SETUP, setup job begins.
+[INFO] Thread-53 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 53, simpleJob, SETUP, setup job begins.
+[INFO] Thread-54 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 54, simpleJob, SETUP, setup job done.
+[INFO] Thread-52 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 52, simpleJob, SETUP, setup job begins.
+[INFO] Thread-51 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 51, simpleJob, SETUP, setup job begins.
+[INFO] Thread-50 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 50, simpleJob, SETUP, setup job begins.
+[INFO] Thread-49 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 49, simpleJob, SETUP, setup job begins.
+[INFO] Thread-50 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 50, simpleJob, SETUP, setup job done.
+[INFO] Thread-48 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 48, simpleJob, SETUP, setup job begins.
+[INFO] Thread-47 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 47, simpleJob, SETUP, setup job begins.
+[INFO] Thread-48 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 48, simpleJob, SETUP, setup job done.
+[INFO] Thread-46 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 46, simpleJob, SETUP, setup job begins.
+[INFO] Thread-45 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 45, simpleJob, SETUP, setup job begins.
+[INFO] Thread-46 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 46, simpleJob, SETUP, setup job done.
+[INFO] Thread-43 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 43, simpleJob, SETUP, setup job begins.
+[INFO] Thread-44 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 44, simpleJob, SETUP, setup job begins.
+[INFO] Thread-43 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 43, simpleJob, SETUP, setup job done.
+[INFO] Thread-42 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 42, simpleJob, SETUP, setup job begins.
+[INFO] Thread-41 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 41, simpleJob, SETUP, setup job begins.
+[INFO] Thread-40 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 40, simpleJob, SETUP, setup job begins.
+[INFO] Thread-39 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 39, simpleJob, SETUP, setup job done.
+[INFO] Thread-41 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 41, simpleJob, SETUP, setup job done.
+[INFO] Thread-42 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 42, simpleJob, SETUP, setup job done.
+[INFO] Thread-43 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 43, simpleJob, RUNNING, run job begins.
+[INFO] Thread-44 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 44, simpleJob, SETUP, setup job done.
+[INFO] Thread-43 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 43, simpleJob, RUNNING, run job done
+[INFO] Thread-46 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 46, simpleJob, RUNNING, run job begins.
+[INFO] Thread-45 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 45, simpleJob, SETUP, setup job done.
+[INFO] Thread-48 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 48, simpleJob, RUNNING, run job begins.
+[INFO] Thread-47 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 47, simpleJob, SETUP, setup job done.
+[INFO] Thread-48 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 48, simpleJob, RUNNING, run job done
+[INFO] Thread-47 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 47, simpleJob, RUNNING, run job begins.
+[INFO] Thread-48 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 48, simpleJob, CLEAN, clean job begins
+[INFO] Thread-50 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 50, simpleJob, RUNNING, run job begins.
+[INFO] Thread-49 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 49, simpleJob, SETUP, setup job done.
+[INFO] Thread-51 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 51, simpleJob, SETUP, setup job done.
+[INFO] Thread-52 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 52, simpleJob, SETUP, setup job done.
+[INFO] Thread-54 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 54, simpleJob, RUNNING, run job begins.
+[INFO] Thread-53 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 53, simpleJob, SETUP, setup job done.
+[INFO] Thread-56 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 56, simpleJob, SETUP, setup job done.
+[INFO] Thread-55 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 55, simpleJob, SETUP, setup job done.
+[INFO] Thread-57 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 57, simpleJob, SETUP, setup job done.
+[INFO] Thread-58 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 58, simpleJob, SETUP, setup job done.
+[INFO] Thread-59 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 59, simpleJob, SETUP, setup job done.
+[INFO] Thread-60 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 60, simpleJob, SETUP, setup job done.
+[INFO] Thread-61 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 61, simpleJob, SETUP, setup job done.
+[INFO] Thread-63 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 63, simpleJob, SETUP, setup job done.
+[INFO] Thread-62 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 62, simpleJob, SETUP, setup job done.
+[INFO] Thread-64 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 64, simpleJob, SETUP, setup job done.
+[INFO] Thread-66 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 66, simpleJob, SETUP, setup job done.
+[INFO] Thread-65 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 65, simpleJob, SETUP, setup job done.
+[INFO] Thread-67 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 67, simpleJob, SETUP, setup job done.
+[INFO] Thread-68 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 68, simpleJob, SETUP, setup job done.
+[INFO] Thread-69 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 69, simpleJob, SETUP, setup job done.
+[INFO] Thread-71 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 71, simpleJob, RUNNING, run job begins.
+[INFO] Thread-70 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 70, simpleJob, SETUP, setup job done.
+[INFO] Thread-72 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 72, simpleJob, SETUP, setup job done.
+[INFO] Thread-73 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 73, simpleJob, SETUP, setup job done.
+[INFO] Thread-74 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 74, simpleJob, SETUP, setup job done.
+[INFO] Thread-75 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 75, simpleJob, SETUP, setup job done.
+[INFO] Thread-74 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 74, simpleJob, RUNNING, run job begins.
+[INFO] Thread-75 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 75, simpleJob, RUNNING, run job begins.
+[INFO] Thread-76 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 76, simpleJob, SETUP, setup job done.
+[INFO] Thread-78 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 78, simpleJob, RUNNING, run job begins.
+[INFO] Thread-76 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 76, simpleJob, RUNNING, run job begins.
+[INFO] Thread-78 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 78, simpleJob, RUNNING, run job done
+[INFO] Thread-77 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 77, simpleJob, SETUP, setup job done.
+[INFO] Thread-79 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 79, simpleJob, SETUP, setup job done.
+[INFO] Thread-81 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 81, simpleJob, RUNNING, run job begins.
+[INFO] Thread-80 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 80, simpleJob, SETUP, setup job done.
+[INFO] Thread-81 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 81, simpleJob, RUNNING, run job done
+[INFO] Thread-82 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 82, simpleJob, SETUP, setup job done.
+[INFO] Thread-83 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 83, simpleJob, SETUP, setup job done.
+[INFO] Thread-85 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 85, simpleJob, RUNNING, run job begins.
+[INFO] Thread-84 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 84, simpleJob, SETUP, setup job done.
+[INFO] Thread-86 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 86, simpleJob, SETUP, setup job done.
+[INFO] Thread-87 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 87, simpleJob, SETUP, setup job done.
+[INFO] Thread-88 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 88, simpleJob, SETUP, setup job done.
+[INFO] Thread-89 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 89, simpleJob, SETUP, setup job done.
+[INFO] Thread-88 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 88, simpleJob, RUNNING, run job begins.
+[INFO] Thread-89 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 89, simpleJob, RUNNING, run job begins.
+[INFO] Thread-90 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 90, simpleJob, SETUP, setup job done.
+[INFO] Thread-91 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 91, simpleJob, SETUP, setup job done.
+[INFO] Thread-92 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 92, simpleJob, SETUP, setup job done.
+[INFO] Thread-93 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 93, simpleJob, SETUP, setup job done.
+[INFO] Thread-94 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 94, simpleJob, RUNNING, run job begins.
+[INFO] Thread-93 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 93, simpleJob, RUNNING, run job begins.
+[INFO] Thread-95 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 95, simpleJob, RUNNING, run job begins.
+[INFO] Thread-96 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 96, simpleJob, SETUP, setup job done.
+[INFO] Thread-97 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 97, simpleJob, SETUP, setup job done.
+[INFO] Thread-98 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 98, simpleJob, SETUP, setup job done.
+[INFO] Thread-99 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 99, simpleJob, SETUP, setup job done.
+[INFO] Thread-37 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 37, simpleJob, RUNNING, run job done
+[INFO] Thread-38 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 38, simpleJob, RUNNING, run job begins.
+[INFO] Thread-37 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 37, simpleJob, CLEAN, clean job begins
+[INFO] Thread-99 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 99, simpleJob, RUNNING, run job begins.
+[INFO] Thread-98 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 98, simpleJob, RUNNING, run job begins.
+[INFO] Thread-97 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 97, simpleJob, RUNNING, run job begins.
+[INFO] Thread-98 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 98, simpleJob, RUNNING, run job done
+[INFO] Thread-96 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 96, simpleJob, RUNNING, run job begins.
+[INFO] Thread-95 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 95, simpleJob, RUNNING, run job done
+[INFO] Thread-93 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 93, simpleJob, RUNNING, run job done
+[INFO] Thread-94 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 94, simpleJob, RUNNING, run job done
+[INFO] Thread-92 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 92, simpleJob, RUNNING, run job begins.
+[INFO] Thread-91 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 91, simpleJob, RUNNING, run job begins.
+[INFO] Thread-90 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 90, simpleJob, RUNNING, run job begins.
+[INFO] Thread-91 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 91, simpleJob, RUNNING, run job done
+[INFO] Thread-89 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 89, simpleJob, RUNNING, run job done
+[INFO] Thread-88 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 88, simpleJob, RUNNING, run job done
+[INFO] Thread-87 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 87, simpleJob, RUNNING, run job begins.
+[INFO] Thread-86 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 86, simpleJob, RUNNING, run job begins.
+[INFO] Thread-84 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 84, simpleJob, RUNNING, run job begins.
+[INFO] Thread-85 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 85, simpleJob, RUNNING, run job done
+[INFO] Thread-83 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 83, simpleJob, RUNNING, run job begins.
+[INFO] Thread-82 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 82, simpleJob, RUNNING, run job begins.
+[INFO] Thread-81 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 81, simpleJob, CLEAN, clean job begins
+[INFO] Thread-80 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 80, simpleJob, RUNNING, run job begins.
+[INFO] Thread-79 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 79, simpleJob, RUNNING, run job begins.
+[INFO] Thread-77 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 77, simpleJob, RUNNING, run job begins.
+[INFO] Thread-79 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 79, simpleJob, RUNNING, run job done
+[INFO] Thread-77 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 77, simpleJob, RUNNING, run job done
+[INFO] Thread-78 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 78, simpleJob, CLEAN, clean job begins
+[INFO] Thread-76 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 76, simpleJob, RUNNING, run job done
+[INFO] Thread-75 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 75, simpleJob, RUNNING, run job done
+[INFO] Thread-74 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 74, simpleJob, RUNNING, run job done
+[INFO] Thread-75 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 75, simpleJob, CLEAN, clean job begins
+[INFO] Thread-74 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 74, simpleJob, CLEAN, clean job begins
+[INFO] Thread-73 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 73, simpleJob, RUNNING, run job begins.
+[INFO] Thread-72 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 72, simpleJob, RUNNING, run job begins.
+[INFO] Thread-70 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 70, simpleJob, RUNNING, run job begins.
+[INFO] Thread-71 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 71, simpleJob, RUNNING, run job done
+[INFO] Thread-69 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 69, simpleJob, RUNNING, run job begins.
+[INFO] Thread-68 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 68, simpleJob, RUNNING, run job begins.
+[INFO] Thread-67 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 67, simpleJob, RUNNING, run job begins.
+[INFO] Thread-65 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 65, simpleJob, RUNNING, run job begins.
+[INFO] Thread-66 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 66, simpleJob, RUNNING, run job begins.
+[INFO] Thread-64 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 64, simpleJob, RUNNING, run job begins.
+[INFO] Thread-62 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 62, simpleJob, RUNNING, run job begins.
+[INFO] Thread-63 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 63, simpleJob, RUNNING, run job begins.
+[INFO] Thread-61 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 61, simpleJob, RUNNING, run job begins.
+[INFO] Thread-60 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 60, simpleJob, RUNNING, run job begins.
+[INFO] Thread-59 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 59, simpleJob, RUNNING, run job begins.
+[INFO] Thread-58 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 58, simpleJob, RUNNING, run job begins.
+[INFO] Thread-57 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 57, simpleJob, RUNNING, run job begins.
+[INFO] Thread-55 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 55, simpleJob, RUNNING, run job begins.
+[INFO] Thread-56 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 56, simpleJob, RUNNING, run job begins.
+[INFO] Thread-53 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 53, simpleJob, RUNNING, run job begins.
+[INFO] Thread-54 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 54, simpleJob, RUNNING, run job done
+[INFO] Thread-53 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 53, simpleJob, RUNNING, run job done
+[INFO] Thread-52 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 52, simpleJob, RUNNING, run job begins.
+[INFO] Thread-51 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 51, simpleJob, RUNNING, run job begins.
+[INFO] Thread-49 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 49, simpleJob, RUNNING, run job begins.
+[INFO] Thread-50 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 50, simpleJob, RUNNING, run job done
+[INFO] Thread-48 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 48, simpleJob, CLEAN, clean job done
+[INFO] Thread-50 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 50, simpleJob, CLEAN, clean job begins
+[INFO] Thread-47 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 47, simpleJob, RUNNING, run job done
+[INFO] Thread-45 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 45, simpleJob, RUNNING, run job begins.
+[INFO] Thread-46 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 46, simpleJob, RUNNING, run job done
+[INFO] Thread-43 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 43, simpleJob, CLEAN, clean job begins
+[INFO] Thread-44 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 44, simpleJob, RUNNING, run job begins.
+[INFO] Thread-42 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 42, simpleJob, RUNNING, run job begins.
+[INFO] Thread-41 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 41, simpleJob, RUNNING, run job begins.
+[INFO] Thread-42 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 42, simpleJob, RUNNING, run job done
+[INFO] Thread-39 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 39, simpleJob, RUNNING, run job begins.
+[INFO] Thread-40 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 40, simpleJob, SETUP, setup job done.
+[INFO] Thread-42 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 42, simpleJob, CLEAN, clean job begins
+[INFO] Thread-41 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 41, simpleJob, RUNNING, run job done
+[INFO] Thread-44 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 44, simpleJob, RUNNING, run job done
+[INFO] Thread-43 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 43, simpleJob, CLEAN, clean job done
+[INFO] Thread-44 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 44, simpleJob, CLEAN, clean job begins
+[INFO] Thread-46 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 46, simpleJob, CLEAN, clean job begins
+[INFO] Thread-45 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 45, simpleJob, RUNNING, run job done
+[INFO] Thread-47 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 47, simpleJob, CLEAN, clean job begins
+[INFO] Thread-50 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 50, simpleJob, CLEAN, clean job done
+[INFO] Thread-48 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 48, simpleJob, DONE, all done.
+[INFO] Thread-49 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 49, simpleJob, RUNNING, run job done
+[INFO] Thread-51 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 51, simpleJob, RUNNING, run job done
+[INFO] Thread-52 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 52, simpleJob, RUNNING, run job done
+[INFO] Thread-53 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 53, simpleJob, CLEAN, clean job begins
+[INFO] Thread-54 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 54, simpleJob, CLEAN, clean job begins
+[INFO] Thread-56 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 56, simpleJob, RUNNING, run job done
+[INFO] Thread-54 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 54, simpleJob, CLEAN, clean job done
+[INFO] Thread-56 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 56, simpleJob, CLEAN, clean job begins
+[INFO] Thread-55 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 55, simpleJob, RUNNING, run job done
+[INFO] Thread-57 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 57, simpleJob, RUNNING, run job done
+[INFO] Thread-58 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 58, simpleJob, RUNNING, run job done
+[INFO] Thread-59 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 59, simpleJob, RUNNING, run job done
+[INFO] Thread-60 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 60, simpleJob, RUNNING, run job done
+[INFO] Thread-61 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 61, simpleJob, RUNNING, run job done
+[INFO] Thread-63 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 63, simpleJob, RUNNING, run job done
+[INFO] Thread-62 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 62, simpleJob, RUNNING, run job done
+[INFO] Thread-64 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 64, simpleJob, RUNNING, run job done
+[INFO] Thread-66 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 66, simpleJob, RUNNING, run job done
+[INFO] Thread-65 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 65, simpleJob, RUNNING, run job done
+[INFO] Thread-67 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 67, simpleJob, RUNNING, run job done
+[INFO] Thread-68 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 68, simpleJob, RUNNING, run job done
+[INFO] Thread-69 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 69, simpleJob, RUNNING, run job done
+[INFO] Thread-71 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 71, simpleJob, CLEAN, clean job begins
+[INFO] Thread-70 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 70, simpleJob, RUNNING, run job done
+[INFO] Thread-72 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 72, simpleJob, RUNNING, run job done
+[INFO] Thread-73 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 73, simpleJob, RUNNING, run job done
+[INFO] Thread-74 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 74, simpleJob, CLEAN, clean job done
+[INFO] Thread-73 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 73, simpleJob, CLEAN, clean job begins
+[INFO] Thread-75 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 75, simpleJob, CLEAN, clean job done
+[INFO] Thread-76 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 76, simpleJob, CLEAN, clean job begins
+[INFO] Thread-78 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 78, simpleJob, CLEAN, clean job done
+[INFO] Thread-77 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 77, simpleJob, CLEAN, clean job begins
+[INFO] Thread-79 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 79, simpleJob, CLEAN, clean job begins
+[INFO] Thread-80 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 80, simpleJob, RUNNING, run job done
+[INFO] Thread-81 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 81, simpleJob, CLEAN, clean job done
+[INFO] Thread-82 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 82, simpleJob, RUNNING, run job done
+[INFO] Thread-83 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 83, simpleJob, RUNNING, run job done
+[INFO] Thread-85 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 85, simpleJob, CLEAN, clean job begins
+[INFO] Thread-84 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 84, simpleJob, RUNNING, run job done
+[INFO] Thread-86 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 86, simpleJob, RUNNING, run job done
+[INFO] Thread-87 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 87, simpleJob, RUNNING, run job done
+[INFO] Thread-88 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 88, simpleJob, CLEAN, clean job begins
+[INFO] Thread-89 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 89, simpleJob, CLEAN, clean job begins
+[INFO] Thread-91 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 91, simpleJob, CLEAN, clean job begins
+[INFO] Thread-90 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 90, simpleJob, RUNNING, run job done
+[INFO] Thread-92 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 92, simpleJob, RUNNING, run job done
+[INFO] Thread-94 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 94, simpleJob, CLEAN, clean job begins
+[INFO] Thread-93 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 93, simpleJob, CLEAN, clean job begins
+[INFO] Thread-94 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 94, simpleJob, CLEAN, clean job done
+[INFO] Thread-93 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 93, simpleJob, CLEAN, clean job done
+[INFO] Thread-95 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 95, simpleJob, CLEAN, clean job begins
+[INFO] Thread-96 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 96, simpleJob, RUNNING, run job done
+[INFO] Thread-98 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 98, simpleJob, CLEAN, clean job begins
+[INFO] Thread-97 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 97, simpleJob, RUNNING, run job done
+[INFO] Thread-99 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 99, simpleJob, RUNNING, run job done
+[INFO] Thread-37 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 37, simpleJob, CLEAN, clean job done
+[INFO] Thread-38 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 38, simpleJob, RUNNING, run job done
+[INFO] Thread-37 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 37, simpleJob, DONE, all done.
+[INFO] Thread-99 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 99, simpleJob, CLEAN, clean job begins
+[INFO] Thread-97 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 97, simpleJob, CLEAN, clean job begins
+[INFO] Thread-98 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 98, simpleJob, CLEAN, clean job done
+[INFO] Thread-97 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 97, simpleJob, CLEAN, clean job done
+[INFO] Thread-96 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 96, simpleJob, CLEAN, clean job begins
+[INFO] Thread-95 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 95, simpleJob, CLEAN, clean job done
+[INFO] Thread-93 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 93, simpleJob, DONE, all done.
+[INFO] Thread-94 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 94, simpleJob, DONE, all done.
+[INFO] Thread-92 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 92, simpleJob, CLEAN, clean job begins
+[INFO] Thread-90 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 90, simpleJob, CLEAN, clean job begins
+[INFO] Thread-91 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 91, simpleJob, CLEAN, clean job done
+[INFO] Thread-89 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 89, simpleJob, CLEAN, clean job done
+[INFO] Thread-88 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 88, simpleJob, CLEAN, clean job done
+[INFO] Thread-87 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 87, simpleJob, CLEAN, clean job begins
+[INFO] Thread-86 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 86, simpleJob, CLEAN, clean job begins
+[INFO] Thread-87 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 87, simpleJob, CLEAN, clean job done
+[INFO] Thread-84 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 84, simpleJob, CLEAN, clean job begins
+[INFO] Thread-85 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 85, simpleJob, CLEAN, clean job done
+[INFO] Thread-82 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 82, simpleJob, CLEAN, clean job begins
+[INFO] Thread-83 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 83, simpleJob, CLEAN, clean job begins
+[INFO] Thread-82 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 82, simpleJob, CLEAN, clean job done
+[INFO] Thread-81 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 81, simpleJob, DONE, all done.
+[INFO] Thread-80 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 80, simpleJob, CLEAN, clean job begins
+[INFO] Thread-79 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 79, simpleJob, CLEAN, clean job done
+[INFO] Thread-77 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 77, simpleJob, CLEAN, clean job done
+[INFO] Thread-78 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 78, simpleJob, DONE, all done.
+[INFO] Thread-76 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 76, simpleJob, CLEAN, clean job done
+[INFO] Thread-75 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 75, simpleJob, DONE, all done.
+[INFO] Thread-76 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 76, simpleJob, DONE, all done.
+[INFO] Thread-73 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 73, simpleJob, CLEAN, clean job done
+[INFO] Thread-74 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 74, simpleJob, DONE, all done.
+[INFO] Thread-72 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 72, simpleJob, CLEAN, clean job begins
+[INFO] Thread-70 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 70, simpleJob, CLEAN, clean job begins
+[INFO] Thread-71 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 71, simpleJob, CLEAN, clean job done
+[INFO] Thread-70 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 70, simpleJob, CLEAN, clean job done
+[INFO] Thread-69 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 69, simpleJob, CLEAN, clean job begins
+[INFO] Thread-68 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 68, simpleJob, CLEAN, clean job begins
+[INFO] Thread-67 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 67, simpleJob, CLEAN, clean job begins
+[INFO] Thread-68 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 68, simpleJob, CLEAN, clean job done
+[INFO] Thread-65 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 65, simpleJob, CLEAN, clean job begins
+[INFO] Thread-66 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 66, simpleJob, CLEAN, clean job begins
+[INFO] Thread-64 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 64, simpleJob, CLEAN, clean job begins
+[INFO] Thread-62 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 62, simpleJob, CLEAN, clean job begins
+[INFO] Thread-63 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 63, simpleJob, CLEAN, clean job begins
+[INFO] Thread-62 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 62, simpleJob, CLEAN, clean job done
+[INFO] Thread-61 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 61, simpleJob, CLEAN, clean job begins
+[INFO] Thread-58 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 58, simpleJob, CLEAN, clean job begins
+[INFO] Thread-61 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 61, simpleJob, CLEAN, clean job done
+[INFO] Thread-60 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 60, simpleJob, CLEAN, clean job begins
+[INFO] Thread-59 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 59, simpleJob, CLEAN, clean job begins
+[INFO] Thread-60 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 60, simpleJob, CLEAN, clean job done
+[INFO] Thread-57 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 57, simpleJob, CLEAN, clean job begins
+[INFO] Thread-55 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 55, simpleJob, CLEAN, clean job begins
+[INFO] Thread-57 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 57, simpleJob, CLEAN, clean job done
+[INFO] Thread-56 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 56, simpleJob, CLEAN, clean job done
+[INFO] Thread-54 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 54, simpleJob, DONE, all done.
+[INFO] Thread-53 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 53, simpleJob, CLEAN, clean job done
+[INFO] Thread-52 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 52, simpleJob, CLEAN, clean job begins
+[INFO] Thread-51 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 51, simpleJob, CLEAN, clean job begins
+[INFO] Thread-49 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 49, simpleJob, CLEAN, clean job begins
+[INFO] Thread-50 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 50, simpleJob, DONE, all done.
+[INFO] Thread-49 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 49, simpleJob, CLEAN, clean job done
+[INFO] Thread-47 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 47, simpleJob, CLEAN, clean job done
+[INFO] Thread-45 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 45, simpleJob, CLEAN, clean job begins
+[INFO] Thread-46 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 46, simpleJob, CLEAN, clean job done
+[INFO] Thread-44 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 44, simpleJob, CLEAN, clean job done
+[INFO] Thread-43 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 43, simpleJob, DONE, all done.
+[INFO] Thread-41 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 41, simpleJob, CLEAN, clean job begins
+[INFO] Thread-42 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 42, simpleJob, CLEAN, clean job done
+[INFO] Thread-40 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 40, simpleJob, RUNNING, run job begins.
+[INFO] Thread-39 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 39, simpleJob, RUNNING, run job done
+[INFO] Thread-42 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 42, simpleJob, DONE, all done.
+[INFO] Thread-41 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 41, simpleJob, CLEAN, clean job done
+[INFO] Thread-44 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 44, simpleJob, DONE, all done.
+[INFO] Thread-41 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 41, simpleJob, DONE, all done.
+[INFO] Thread-46 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 46, simpleJob, DONE, all done.
+[INFO] Thread-45 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 45, simpleJob, CLEAN, clean job done
+[INFO] Thread-47 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 47, simpleJob, DONE, all done.
+[INFO] Thread-49 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 49, simpleJob, DONE, all done.
+[INFO] Thread-51 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 51, simpleJob, CLEAN, clean job done
+[INFO] Thread-52 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 52, simpleJob, CLEAN, clean job done
+[INFO] Thread-53 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 53, simpleJob, DONE, all done.
+[INFO] Thread-56 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 56, simpleJob, DONE, all done.
+[INFO] Thread-57 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 57, simpleJob, DONE, all done.
+[INFO] Thread-55 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 55, simpleJob, CLEAN, clean job done
+[INFO] Thread-60 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 60, simpleJob, DONE, all done.
+[INFO] Thread-55 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 55, simpleJob, DONE, all done.
+[INFO] Thread-59 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 59, simpleJob, CLEAN, clean job done
+[INFO] Thread-61 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 61, simpleJob, DONE, all done.
+[INFO] Thread-59 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 59, simpleJob, DONE, all done.
+[INFO] Thread-58 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 58, simpleJob, CLEAN, clean job done
+[INFO] Thread-62 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 62, simpleJob, DONE, all done.
+[INFO] Thread-63 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 63, simpleJob, CLEAN, clean job done
+[INFO] Thread-64 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 64, simpleJob, CLEAN, clean job done
+[INFO] Thread-66 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 66, simpleJob, CLEAN, clean job done
+[INFO] Thread-65 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 65, simpleJob, CLEAN, clean job done
+[INFO] Thread-68 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 68, simpleJob, DONE, all done.
+[INFO] Thread-65 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 65, simpleJob, DONE, all done.
+[INFO] Thread-67 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 67, simpleJob, CLEAN, clean job done
+[INFO] Thread-69 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 69, simpleJob, CLEAN, clean job done
+[INFO] Thread-70 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 70, simpleJob, DONE, all done.
+[INFO] Thread-71 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 71, simpleJob, DONE, all done.
+[INFO] Thread-72 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 72, simpleJob, CLEAN, clean job done
+[INFO] Thread-73 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 73, simpleJob, DONE, all done.
+[INFO] Thread-77 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 77, simpleJob, DONE, all done.
+[INFO] Thread-79 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 79, simpleJob, DONE, all done.
+[INFO] Thread-80 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 80, simpleJob, CLEAN, clean job done
+[INFO] Thread-82 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 82, simpleJob, DONE, all done.
+[INFO] Thread-83 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 83, simpleJob, CLEAN, clean job done
+[INFO] Thread-85 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 85, simpleJob, DONE, all done.
+[INFO] Thread-84 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 84, simpleJob, CLEAN, clean job done
+[INFO] Thread-87 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 87, simpleJob, DONE, all done.
+[INFO] Thread-86 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 86, simpleJob, CLEAN, clean job done
+[INFO] Thread-88 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 88, simpleJob, DONE, all done.
+[INFO] Thread-86 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 86, simpleJob, DONE, all done.
+[INFO] Thread-89 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 89, simpleJob, DONE, all done.
+[INFO] Thread-91 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 91, simpleJob, DONE, all done.
+[INFO] Thread-90 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 90, simpleJob, CLEAN, clean job done
+[INFO] Thread-92 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 92, simpleJob, CLEAN, clean job done
+[INFO] Thread-95 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 95, simpleJob, DONE, all done.
+[INFO] Thread-96 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 96, simpleJob, CLEAN, clean job done
+[INFO] Thread-97 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 97, simpleJob, DONE, all done.
+[INFO] Thread-96 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 96, simpleJob, DONE, all done.
+[INFO] Thread-98 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 98, simpleJob, DONE, all done.
+[INFO] Thread-99 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 99, simpleJob, CLEAN, clean job done
+[INFO] Thread-38 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 38, simpleJob, CLEAN, clean job begins
+[INFO] Thread-92 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 92, simpleJob, DONE, all done.
+[INFO] Thread-90 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 90, simpleJob, DONE, all done.
+[INFO] Thread-84 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 84, simpleJob, DONE, all done.
+[INFO] Thread-83 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 83, simpleJob, DONE, all done.
+[INFO] Thread-80 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 80, simpleJob, DONE, all done.
+[INFO] Thread-72 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 72, simpleJob, DONE, all done.
+[INFO] Thread-69 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 69, simpleJob, DONE, all done.
+[INFO] Thread-67 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 67, simpleJob, DONE, all done.
+[INFO] Thread-66 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 66, simpleJob, DONE, all done.
+[INFO] Thread-64 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 64, simpleJob, DONE, all done.
+[INFO] Thread-63 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 63, simpleJob, DONE, all done.
+[INFO] Thread-58 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 58, simpleJob, DONE, all done.
+[INFO] Thread-52 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 52, simpleJob, DONE, all done.
+[INFO] Thread-51 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 51, simpleJob, DONE, all done.
+[INFO] Thread-45 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 45, simpleJob, DONE, all done.
+[INFO] Thread-39 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 39, simpleJob, CLEAN, clean job begins
+[INFO] Thread-40 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 40, simpleJob, RUNNING, run job done
+[INFO] Thread-38 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 38, simpleJob, CLEAN, clean job done
+[INFO] Thread-40 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 40, simpleJob, CLEAN, clean job begins
+[INFO] Thread-99 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 99, simpleJob, DONE, all done.
+[INFO] Thread-38 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 38, simpleJob, DONE, all done.
+[INFO] Thread-39 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 39, simpleJob, CLEAN, clean job done
+[INFO] Thread-40 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 40, simpleJob, CLEAN, clean job done
+[INFO] Thread-39 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 39, simpleJob, DONE, all done.
+[INFO] Thread-40 com.klatencor.klara.nextgen.job.DefaultReporter:32 - Sun May 29 13:59:29 CST 2016: 40, simpleJob, DONE, all done.
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 35, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 36, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 48, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 37, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 93, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 94, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 81, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 78, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 75, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 76, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 74, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 54, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 50, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 43, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 42, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 44, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 41, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 46, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 47, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 49, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 53, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 56, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 57, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 60, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 55, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 61, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 59, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 62, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 68, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 65, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 70, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 71, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 73, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 77, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 79, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 82, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 85, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 87, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 88, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 86, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 89, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 91, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 95, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 97, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 96, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 98, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 92, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 90, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 84, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 83, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 80, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 72, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 69, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 67, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 66, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 64, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 63, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 58, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 52, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 51, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 45, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 99, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 38, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 39, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[INFO] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:164 - JobId: 40, JobName: simpleJob, StartTime: Sun May 29 13:59:29 CST 2016, EndTime: Sun May 29 13:59:29 CST 2016, Messages: 7.
+1: Sun May 29 13:59:29 CST 2016 setup job begins.
+2: Sun May 29 13:59:29 CST 2016 setup job done.
+3: Sun May 29 13:59:29 CST 2016 run job begins.
+4: Sun May 29 13:59:29 CST 2016 run job done
+5: Sun May 29 13:59:29 CST 2016 clean job begins
+6: Sun May 29 13:59:29 CST 2016 clean job done
+7: Sun May 29 13:59:29 CST 2016 all done.
+
+[ERROR] JobMessageWorker com.klatencor.klara.nextgen.server.metrics.ServerMetrics:155 - JobMessageWorker is interrupted at line: 111
+[INFO] main com.klatencor.klara.nextgen.server.metrics.ServerMetrics:85 - ServerMetrics is shutdown successfully.
+[INFO] main com.klatencor.klara.nextgen.test.ServerMetricsTest:32 - 693
+[INFO] main com.klatencor.klara.nextgen.test.ServerMetricsTest:33 - [Sun May 29 13:59:29 CST 2016: 11, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 10, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 4, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 5, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 16, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 5, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 1, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 16, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 3, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 1, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 5, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 4, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 15, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 10, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 11, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 2, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 7, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 9, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 8, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 12, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 6, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 13, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 14, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 6, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 12, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 6, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 8, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 9, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 7, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 2, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 11, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 17, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 10, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 15, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 4, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 5, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 1, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 3, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 16, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 1, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 5, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 4, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 15, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 10, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 17, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 11, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 10, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 2, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 7, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 2, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 7, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 9, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 8, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 6, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 12, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 6, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 12, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 6, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 6, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 14, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 13, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 12, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 8, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 9, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 7, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 2, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 10, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 2, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 2, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 11, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 17, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 15, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 4, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 5, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 4, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 4, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 1, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 16, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 3, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 16, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 3, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 16, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 3, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 1, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 5, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 15, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 17, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 15, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 15, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 11, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 10, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 7, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 9, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 8, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 12, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 13, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 12, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 14, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 13, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 8, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 9, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 7, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 11, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 17, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 1, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 3, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 16, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 17, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 17, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 9, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 8, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 13, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 14, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 3, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 13, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 14, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 13, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 14, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 14, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 18, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 18, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 18, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 18, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 18, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 18, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 18, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 19, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 19, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 19, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 19, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 19, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 19, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 19, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 20, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 20, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 20, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 20, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 20, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 20, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 20, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 21, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 21, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 21, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 21, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 21, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 21, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 21, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 22, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 22, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 22, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 22, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 22, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 22, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 22, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 23, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 23, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 23, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 23, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 23, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 23, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 23, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 24, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 24, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 24, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 24, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 24, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 24, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 24, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 25, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 25, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 25, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 25, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 25, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 25, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 25, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 26, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 26, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 26, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 26, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 26, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 26, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 26, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 27, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 27, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 27, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 27, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 27, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 27, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 27, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 28, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 28, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 28, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 28, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 28, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 28, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 28, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 29, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 29, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 29, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 29, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 29, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 29, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 29, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 30, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 30, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 30, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 30, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 30, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 30, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 30, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 31, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 31, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 31, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 31, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 31, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 31, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 31, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 32, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 32, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 32, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 32, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 32, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 32, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 32, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 33, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 34, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 35, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 33, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 34, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 33, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 35, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 33, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 34, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 33, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 34, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 35, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 34, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 33, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 35, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 33, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 34, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 35, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 34, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 35, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 35, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 36, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 36, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 36, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 36, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 38, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 37, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 36, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 39, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 36, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 37, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 38, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 37, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 36, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 99, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 98, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 97, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 96, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 95, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 94, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 95, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 94, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 93, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 92, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 91, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 90, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 89, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 88, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 87, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 86, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 85, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 84, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 85, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 83, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 82, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 81, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 80, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 81, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 79, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 78, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 77, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 78, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 76, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 75, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 74, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 73, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 72, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 71, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 70, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 71, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 69, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 68, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 67, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 65, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 66, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 64, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 62, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 63, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 61, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 60, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 59, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 58, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 57, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 55, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 56, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 54, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 53, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 54, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 52, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 51, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 50, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 49, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 50, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 48, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 47, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 48, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 46, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 45, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 46, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 43, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 44, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 43, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 42, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 41, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 40, simpleJob, SETUP, setup job begins., Sun May 29 13:59:29 CST 2016: 39, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 41, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 42, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 43, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 44, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 43, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 46, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 45, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 48, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 47, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 48, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 47, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 48, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 50, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 49, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 51, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 52, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 54, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 53, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 56, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 55, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 57, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 58, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 59, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 60, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 61, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 63, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 62, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 64, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 66, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 65, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 67, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 68, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 69, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 71, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 70, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 72, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 73, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 74, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 75, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 74, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 75, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 76, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 78, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 76, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 78, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 77, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 79, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 81, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 80, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 81, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 82, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 83, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 85, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 84, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 86, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 87, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 88, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 89, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 88, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 89, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 90, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 91, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 92, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 93, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 94, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 93, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 95, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 96, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 97, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 98, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 99, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 37, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 38, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 37, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 99, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 98, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 97, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 98, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 96, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 95, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 93, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 94, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 92, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 91, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 90, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 91, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 89, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 88, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 87, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 86, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 84, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 85, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 83, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 82, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 81, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 80, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 79, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 77, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 79, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 77, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 78, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 76, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 75, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 74, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 75, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 74, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 73, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 72, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 70, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 71, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 69, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 68, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 67, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 65, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 66, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 64, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 62, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 63, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 61, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 60, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 59, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 58, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 57, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 55, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 56, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 53, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 54, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 53, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 52, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 51, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 49, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 50, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 48, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 50, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 47, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 45, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 46, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 43, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 44, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 42, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 41, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 42, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 39, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 40, simpleJob, SETUP, setup job done., Sun May 29 13:59:29 CST 2016: 42, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 41, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 44, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 43, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 44, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 46, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 45, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 47, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 50, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 48, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 49, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 51, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 52, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 53, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 54, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 56, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 54, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 56, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 55, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 57, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 58, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 59, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 60, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 61, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 63, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 62, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 64, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 66, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 65, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 67, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 68, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 69, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 71, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 70, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 72, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 73, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 74, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 73, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 75, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 76, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 78, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 77, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 79, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 80, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 81, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 82, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 83, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 85, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 84, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 86, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 87, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 88, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 89, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 91, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 90, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 92, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 94, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 93, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 94, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 93, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 95, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 96, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 98, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 97, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 99, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 37, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 38, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 37, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 99, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 97, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 98, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 97, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 96, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 95, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 93, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 94, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 92, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 90, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 91, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 89, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 88, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 87, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 86, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 87, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 84, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 85, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 82, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 83, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 82, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 81, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 80, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 79, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 77, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 78, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 76, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 75, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 76, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 73, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 74, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 72, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 70, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 71, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 70, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 69, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 68, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 67, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 68, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 65, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 66, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 64, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 62, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 63, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 62, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 61, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 58, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 61, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 60, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 59, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 60, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 57, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 55, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 57, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 56, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 54, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 53, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 52, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 51, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 49, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 50, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 49, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 47, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 45, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 46, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 44, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 43, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 41, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 42, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 40, simpleJob, RUNNING, run job begins., Sun May 29 13:59:29 CST 2016: 39, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 42, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 41, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 44, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 41, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 46, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 45, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 47, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 49, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 51, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 52, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 53, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 56, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 57, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 55, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 60, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 55, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 59, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 61, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 59, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 58, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 62, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 63, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 64, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 66, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 65, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 68, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 65, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 67, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 69, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 70, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 71, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 72, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 73, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 77, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 79, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 80, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 82, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 83, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 85, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 84, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 87, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 86, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 88, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 86, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 89, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 91, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 90, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 92, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 95, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 96, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 97, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 96, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 98, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 99, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 38, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 92, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 90, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 84, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 83, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 80, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 72, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 69, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 67, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 66, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 64, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 63, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 58, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 52, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 51, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 45, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 39, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 40, simpleJob, RUNNING, run job done, Sun May 29 13:59:29 CST 2016: 38, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 40, simpleJob, CLEAN, clean job begins, Sun May 29 13:59:29 CST 2016: 99, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 38, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 39, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 40, simpleJob, CLEAN, clean job done, Sun May 29 13:59:29 CST 2016: 39, simpleJob, DONE, all done., Sun May 29 13:59:29 CST 2016: 40, simpleJob, DONE, all done.]
